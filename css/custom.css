@@ -7,7 +7,7 @@ body {
 .jumbotron {
 	background-color:#000;
 	padding-top:30px;
-	padding-bottom:10px;
+	padding-bottom:0px;
 }
 
 img {
@@ -16,7 +16,7 @@ img {
 
 a {
 	/*color: #FF8A6B;*/
-	color:#f35c59;
+	color:#cf40a0;
 }
 
 a:hover, a:focus {
@@ -51,7 +51,7 @@ ul.nav li.active a {
 .nav-pills > li.active > a:focus {
   color: #fff;
   /*background-color: #FF8A6B;*/
-  background-color: #f35c59;
+  background-color: #cf40a0;
 }
 
 
@@ -65,7 +65,7 @@ ul.nav li.active a {
 .map {
 	margin: 0 auto;
     /*background-color:#FF8A6B;*/
-    background-color:#f35c59;
+    background-color:#cf40a0;
     width:420px;
     height:320px;
     padding-top:10px;
