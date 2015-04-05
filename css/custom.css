@@ -79,3 +79,10 @@ ul.nav li.active a {
 .centered-pills ul.nav-pills { display:inline-block; }
 .centered-pills li { display:inline; }
 .centered-pills a { float:left; }
+
+.carouselImages img {
+  width: auto;
+  height: 420px;
+  max-height: 420px;
+  margin:auto;
+}
